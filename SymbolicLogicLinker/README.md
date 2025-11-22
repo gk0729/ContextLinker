@@ -33,7 +33,9 @@ SymbolicLogicLinker/
 
 ## 使用方法 (Usage)
 
-(待補充)
+此專案目前處於初始設置階段。具體使用方法將在開發過程中添加。
+
+This project is currently in the initial setup phase. Specific usage instructions will be added during development.
 
 ## 開發計劃 (Development Roadmap)
 

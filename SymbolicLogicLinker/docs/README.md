@@ -4,7 +4,9 @@
 
 本目錄包含 Symbolic LogicLinker 專案的詳細文檔。
 
-### 文檔結構
+### 文檔結構 (計劃中 / Planned)
+
+以下文檔將在開發過程中逐步添加：
 
 - `architecture.md` - 系統架構設計文檔
 - `api.md` - API 參考文檔
@@ -23,7 +25,9 @@
 
 This directory contains detailed documentation for the Symbolic LogicLinker project.
 
-### Documentation Structure
+### Documentation Structure (Planned)
+
+The following documents will be added during development:
 
 - `architecture.md` - System architecture design document
 - `api.md` - API reference documentation

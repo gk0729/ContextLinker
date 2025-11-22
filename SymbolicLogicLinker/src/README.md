@@ -2,7 +2,9 @@
 
 本目錄包含 Symbolic LogicLinker 的核心源代碼。
 
-## 目錄結構
+## 目錄結構 (規劃中 / Planned)
+
+以下是規劃的目錄結構，將在開發過程中創建：
 
 ```
 src/
@@ -23,7 +25,9 @@ src/
 
 This directory contains the core source code for Symbolic LogicLinker.
 
-## Directory Structure
+## Directory Structure (Planned)
+
+The following directory structure is planned and will be created during development:
 
 ```
 src/
